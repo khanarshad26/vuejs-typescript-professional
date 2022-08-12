@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelloWorld.vue should render default snapshot 1`] = `
+<div
+  class="hello"
+>
+  <h1>
+    default msg
+  </h1>
+  <input
+    id="input"
+    type="text"
+  />
+  <button>
+    Button
+  </button>
+  <!--v-if-->
+  <div>
+     Name : 
+  </div>
+</div>
+`;
